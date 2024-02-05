@@ -9,7 +9,7 @@
 plugins {
     // Apply the java-library plugin to add support for Java Library
     id 'java-library'
-    id "org.sonarqube" version "4.4.0.3356"
+    id "org.sonarqube" version "4.4.1.3373"
 }
 
 jar {
